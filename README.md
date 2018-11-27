@@ -81,7 +81,7 @@ http://www.growing-object-oriented-software.com provides good strategies on the 
 
 ### 10. On Branching
 * Does this fit into this branch? Should I create a separate PR called refactorX?
-* If you are creating a new way to serialize or do networking or something big: YES (please talk to your teammates first about the tradeoff and where can this fit in the release).
+* If you are creating a new way to serialize or do networking or something big: YES (please talk to your teammates first about the trade-offs and where can this fit in the release).
 * If not, you can refactor it, the grand refactor in the sky will never happen so better start somewhere, if you can get a win out of it.
 
 
